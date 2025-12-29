@@ -19,5 +19,4 @@ npm install
 npm run dev  
 
 ## Screenshots
-(Add screenshots here)
 ![alt text](<Screenshot 2025-12-29 211255.jpg>)
